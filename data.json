@@ -1,0 +1,280 @@
+{
+  "restoran": [
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 1
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "299896",
+      "id": 2,
+      "data": {
+        "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+        "name": "Grilled Beef with potatoes",
+        "about": "Meat, Potatoes, Rice, Tomatoe",
+        "money": "2996",
+        "id": 2,
+        "data": {
+          "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+          "name": "Grilled Beef with potatoes",
+          "about": "Meat, Potatoes, Rice, Tomatoe",
+          "money": "29",
+          "id": 2
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "no-cache",
+          "content-length": "185",
+          "content-type": "application/json; charset=utf-8",
+          "expires": "-1",
+          "pragma": "no-cache"
+        },
+        "config": {
+          "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+          },
+          "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+          ],
+          "transformRequest": [
+            null
+          ],
+          "transformResponse": [
+            null
+          ],
+          "timeout": 0,
+          "xsrfCookieName": "XSRF-TOKEN",
+          "xsrfHeaderName": "X-XSRF-TOKEN",
+          "maxContentLength": -1,
+          "maxBodyLength": -1,
+          "env": {},
+          "headers": {
+            "Accept": "application/json, text/plain, */*"
+          },
+          "method": "get",
+          "url": "http://localhost:8000/restoran/2"
+        },
+        "request": {}
+      },
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "cache-control": "no-cache",
+        "content-type": "application/json; charset=utf-8",
+        "expires": "-1",
+        "pragma": "no-cache"
+      },
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http",
+          "fetch"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*"
+        },
+        "method": "get",
+        "url": "http://localhost:8000/restoran/2"
+      },
+      "request": {}
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "za",
+      "money": "29",
+      "id": 3,
+      "data": {
+        "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+        "name": "Grilled Beef with potatoes",
+        "about": "Meat, Potatoes, Rice, Tomatoe",
+        "money": "29",
+        "id": 3
+      },
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "cache-control": "no-cache",
+        "content-length": "185",
+        "content-type": "application/json; charset=utf-8",
+        "expires": "-1",
+        "pragma": "no-cache"
+      },
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http",
+          "fetch"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*"
+        },
+        "method": "get",
+        "url": "http://localhost:8000/restoran/3"
+      },
+      "request": {}
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 4
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "lule",
+      "about": "edalet",
+      "money": "29856",
+      "id": 5,
+      "data": {
+        "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+        "name": "Grilled Beef with potatoes",
+        "about": "Meat, Potatoes, Rice, Tomatoe",
+        "money": "29",
+        "id": 5
+      },
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "cache-control": "no-cache",
+        "content-length": "185",
+        "content-type": "application/json; charset=utf-8",
+        "expires": "-1",
+        "pragma": "no-cache"
+      },
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http",
+          "fetch"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*"
+        },
+        "method": "get",
+        "url": "http://localhost:8000/restoran/5"
+      },
+      "request": {}
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 6
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 7
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 8
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 9
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 10
+    }
+  ],
+  "favoritler": [
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 3
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 4
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg",
+      "name": "Grilled Beef with potatoes",
+      "about": "Meat, Potatoes, Rice, Tomatoe",
+      "money": "29",
+      "id": 1
+    }
+  ]
+}

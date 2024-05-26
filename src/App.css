@@ -1,0 +1,33 @@
+.navbar_esas a{
+  font-size: 20px;
+}
+.navbr_link a{
+  text-decoration: none;
+  margin-right: 30px;
+  color: black;
+}
+.navbr_link a:hover{
+  color: orange;
+
+}
+.footer_ul_style ul{
+  list-style-type: none;
+  padding: 0;
+}
+.footer_ul_style ul li{
+  margin: 8px 0;
+}
+.footer_esas{
+  background-color: rgb(51, 49, 49);
+  color: white;
+}
+.footer_subsrcbe_position{
+     position: relative;
+}
+.footer_subsrcbe_position span{
+  position: absolute;
+  left: 160px;
+}
+.footer_subsrcbe_position svg{
+  color: black;
+}

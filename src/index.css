@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+                
+ 
+                   /* Admin hissesinin style burda verilib */
+table{
+    width: 100%;
+}
+table,thead,th,tr,td{
+    border: 1px solid black;
+    text-align: center;
+}
+.adminget_img img{
+    width: 100px;
+    height: 80px;
+    margin: 5px 0;
+}
+
+.admin_add input{
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+}
+.admin_add_esas{
+    background-color: aqua;
+}
+.add_sub_geri{
+    display: flex;
+    justify-content: center;
+}
+.add_sub_geri input{
+    margin: 0px 20px   !important;
+}
+.data_add_img{
+   margin-left: 45%;
+}
+
+.admin_search{
+    width: 78%;
+    padding: 5px;
+    margin: 15px 0;
+    margin-right: 4%;
+}
+.admin_sort{
+    width: 18%;
+    padding: 5px;
+}
